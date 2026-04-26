@@ -102,7 +102,7 @@ def save_data(df, output_path="cleaned_airbnb_data.csv"):
 
 # Main
 def main():
-    path = "airbnb_data.csv" 
+    path = "C://Users//ekank//Downloads//Airbnb_Open_Data.csv"
     df = load_data(path)
 
     if df is not None:
