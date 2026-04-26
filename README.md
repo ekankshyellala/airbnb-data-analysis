@@ -20,4 +20,13 @@ Performed end-to-end data analysis on ~8K Airbnb listings to uncover pricing tre
 - High-demand areas showed 30–40% higher occupancy trends  
 
 ## Visualizations
-- To be added
+- ## Visualizations
+
+### 1. Price Distribution
+[price Distribution](price_distribution.png)
+
+### 2. Top Neighbourhoods by Listings  
+![Top Neighbourhoods](top_neighbourhoods.png)
+
+### 3. Reviews vs Price Analysis
+![Reviews Vs Price](reviews_vs_price.png)
